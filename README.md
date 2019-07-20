@@ -1,5 +1,5 @@
 # Python Business Analytics
-##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
+##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/7687295282fc/z9q3hv79j2. 
 ---
 </br>
 
