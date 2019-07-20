@@ -5,6 +5,8 @@
 
 A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked busienss solutions. 
 
-Week 1: [Bike Share Business Case](https://mailchi.mp/ec4942d52cc5/firmai)
+---
+##### Week 1: [Bike Share Business Case](https://mailchi.mp/ec4942d52cc5/firmai)
 
 tags: Outlier Analysis, Model Selection, Missing Values, Descriptive Statistics
+---
