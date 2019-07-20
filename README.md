@@ -6,7 +6,7 @@
 A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked busienss solutions. 
 
 ---
-### Week 1: [Bike Share Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy)
+### Week 1: [Bike Share Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy) - Google Colab
 
-tags: Outlier Analysis, Model Selection, Missing Values, Descriptive Statistics
+Outlier Analysis, Model Selection, Missing Values, Descriptive Statistics
 
