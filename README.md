@@ -5,4 +5,6 @@
 
 A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked busienss solutions. 
 
-1. Week 1: 
+Week 1: 
+
+tags: 
