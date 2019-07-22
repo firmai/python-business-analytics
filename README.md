@@ -10,7 +10,7 @@ A series looking at implementing python solutions to solve practical business pr
 
 Outlier Analysis, Model Selection, Missing Values, Descriptive Statistics
 
-### Week 2/52: [Reuters Business Case](https://colab.research.google.com/drive/10wn2oI8f8_IAHYj7sXbrmx0C1wY6e4ny) - Google Colab
+### Week 2/52: [Reuters NLP](https://colab.research.google.com/drive/10wn2oI8f8_IAHYj7sXbrmx0C1wY6e4ny) - Google Colab
 
 Process Text, pyLDAvis, Word Embeddings, Text Evaluation, fuzzywuzzy
 
