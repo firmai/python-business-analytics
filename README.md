@@ -6,14 +6,14 @@
 A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked busienss solutions. 
 
 ---
-### Week 1: [Bike Share Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy) - Google Colab
+### Week 1/52: [Bike Share Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy) - Google Colab
 
 Outlier Analysis, Model Selection, Missing Values, Descriptive Statistics
 
-### Week 2: [Reuters Business Case](https://colab.research.google.com/drive/10wn2oI8f8_IAHYj7sXbrmx0C1wY6e4ny) - Google Colab
+### Week 2/52: [Reuters Business Case](https://colab.research.google.com/drive/10wn2oI8f8_IAHYj7sXbrmx0C1wY6e4ny) - Google Colab
 
 Process Text, pyLDAvis, Word Embeddings, Text Evaluation, fuzzywuzzy
 
-### Week 3: [Customer Lifetime Value](https://colab.research.google.com/drive/1yxUkWZSBJWIoxBAi7MIxvkWKNgr0NXDH) - Google Colab
+### Week 3/52: [Customer Lifetime Value](https://colab.research.google.com/drive/1yxUkWZSBJWIoxBAi7MIxvkWKNgr0NXDH) - Google Colab
 
 RFM Analysis, Pareto Model, NDB Model, Gamma-Gamma Model, CLV Model
