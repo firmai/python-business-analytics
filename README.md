@@ -37,6 +37,13 @@ Neural Network, Sales, Relu, LSTM, CNN, Evaluation
 
 Full Pipeline, Random Forest, Visualisation, Grid Search, Confidence Interval
 
+### Week 8/52: [Portfolio Optimisation](https://colab.research.google.com/drive/1ulDSw7DEJH1SYRVwvtJXYU0naFgaaBiR) - Google Colab
+
+Efficient Frontier, Stocks, Modern Portfolio Theory, Pivot, Simulations, Minimum Volatility, Sharpe Ratio
+
+
+
+
 
 
 
