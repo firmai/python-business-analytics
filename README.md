@@ -49,6 +49,14 @@ GDP, Life Satisfaction, Linear Regression Plots, Prediction Model
 
 Default, Credit Scores, Visualisations, Data Cleaning, ROC Curves, Multi-class Classification
 
+### Week 10/52: [Venture Capital](https://colab.research.google.com/drive/1OyPc3TTOrn-sQpLd-nfWxCSwGS5u5q5L) - Google Colab
+
+Capital Allocation, Decision Trees, Acquisitions, Investment
+
+
+
+
+
 
 
 
