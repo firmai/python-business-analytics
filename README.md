@@ -4,7 +4,7 @@
 ### Intermediate to Advanced
 ---
 
-A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked businenss solutions. See the following [google drive](https://drive.google.com/open?id=1mi5-fwM47GioHFePRcGOtJvo_ewpoLJL) for all the code and [github](https://github.com/firmai/python-business-analytics/tree/master/data) for all the data. 
+A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked businenss solutions. See the following [google drive](https://drive.google.com/open?id=1mi5-fwM47GioHFePRcGOtJvo_ewpoLJL) for all the code and [github](https://github.com/firmai/python-business-analytics/tree/master/data) for all the data. If you follow my [LinkedIn page](https://www.linkedin.com/company/firmai), you would be able to see the lastest developments. 
 
 ---
 ### Week 1/52: [Bike Share Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy) - Google Colab
