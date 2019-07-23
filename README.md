@@ -53,6 +53,11 @@ Default, Credit Scores, Visualisations, Data Cleaning, ROC Curves, Multi-class C
 
 Capital Allocation, Decision Trees, Acquisitions, Investment
 
+### Week 12/52: [Bankruptcy Prediction](https://colab.research.google.com/drive/1ozRafLRWiVL9bwF5ihRUa4gz4rURKEW6) - Google Colab
+
+Voting Classifiers, Bagging Ensembles, SMOTE, XGBoost, Cross-validation
+
+
 
 
 
