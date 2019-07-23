@@ -19,6 +19,6 @@ Process Text, pyLDAvis, Word Embeddings, Text Evaluation, fuzzywuzzy
 
 RFM Analysis, Pareto Model, NDB Model, Gamma-Gamma Model, CLV Model, Constraint Programming
 
-### Week 3/52: [Customer Segmentation](https://colab.research.google.com/drive/1zLnSBEOGsqVzAiDTRKz6xxHlbUO36g-O) - Google Colab
+### Week 4/52: [Customer Segmentation](https://colab.research.google.com/drive/1zLnSBEOGsqVzAiDTRKz6xxHlbUO36g-O) - Google Colab
 
 Radar, Silhouette, PCA, Grouping, Invoices, Inventory, Datatable, Basket, 
