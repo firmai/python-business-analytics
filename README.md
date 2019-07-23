@@ -4,7 +4,7 @@
 ### Intermediate to Advanced
 ---
 
-A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked busienss solutions. 
+A series looking at implementing python solutions to solve practical business problems. Every week we will look at hand picked businenss solutions. See the following [google drive](https://drive.google.com/open?id=1mi5-fwM47GioHFePRcGOtJvo_ewpoLJL) for the entire folder. 
 
 ---
 ### Week 1/52: [Bike Share Business Case](https://colab.research.google.com/drive/1quNMjDZsFkw7GQ3cOoGW12G0AAfPuujy) - Google Colab
