@@ -45,7 +45,9 @@ Efficient Frontier, Stocks, Modern Portfolio Theory, Pivot, Simulations, Minimum
 
 GDP, Life Satisfaction, Linear Regression Plots, Prediction Model
 
+### Week 10/52: [Loan Classification](https://colab.research.google.com/drive/1CyF0OfKq8dSPjnrlYnwI2cL32f-AUjCf) - Google Colab
 
+Default, Credit Scores, Visualisations, Data Cleaning, ROC Curves, Multi-class Classification
 
 
 
