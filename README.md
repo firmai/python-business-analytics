@@ -16,4 +16,4 @@ Process Text, pyLDAvis, Word Embeddings, Text Evaluation, fuzzywuzzy
 
 ### Week 3/52: [Customer Lifetime Value](https://colab.research.google.com/drive/1yxUkWZSBJWIoxBAi7MIxvkWKNgr0NXDH) - Google Colab
 
-RFM Analysis, Pareto Model, NDB Model, Gamma-Gamma Model, CLV Model
+RFM Analysis, Pareto Model, NDB Model, Gamma-Gamma Model, CLV Model, Constraint Programming
