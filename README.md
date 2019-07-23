@@ -31,5 +31,12 @@ Week, EDA, Simulated, Prediction, Dummy Variable
 
 Neural Network, Sales, Relu, LSTM, CNN, Evaluation
 
+### Week 7/52: [AirBnB Sydney Rent Evaluation](https://colab.research.google.com/drive/16ILDbLl6rCD0S3r8LrEV7WXpC8LpDuo7) - Google Colab
+
+Full Pipeline, Random Forest, Visualisation, Grid Search, Confidence Interval
+
+
+
+
 
 
