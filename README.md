@@ -27,4 +27,9 @@ Radar, Silhouette, PCA, Grouping, Invoices, Inventory, Datatable, Basket,
 
 Week, EDA, Simulated, Prediction, Dummy Variable
 
+### Week 6/52: [Demand Forecasting](https://colab.research.google.com/drive/1da_iU41wykFHKgDV4c5eLbvwAQQzn9P9) - Google Colab
+
+Neural Network, Sales, Relu, LSTM, CNN, Evaluation
+
+
 
