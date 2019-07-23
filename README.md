@@ -41,6 +41,14 @@ Full Pipeline, Random Forest, Visualisation, Grid Search, Confidence Interval
 
 Efficient Frontier, Stocks, Modern Portfolio Theory, Pivot, Simulations, Minimum Volatility, Sharpe Ratio
 
+### Week 9/52: [Economic Analysis](https://colab.research.google.com/drive/106e72WUIWY3UT1HHoaXYO84ZHWqC2zjZ) - Google Colab
+
+GDP, Life Satisfaction, Linear Regression Plots, Prediction Model
+
+
+
+
+
 
 
 
