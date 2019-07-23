@@ -22,3 +22,9 @@ RFM Analysis, Pareto Model, NDB Model, Gamma-Gamma Model, CLV Model, Constraint 
 ### Week 4/52: [Customer Segmentation](https://colab.research.google.com/drive/1zLnSBEOGsqVzAiDTRKz6xxHlbUO36g-O) - Google Colab
 
 Radar, Silhouette, PCA, Grouping, Invoices, Inventory, Datatable, Basket, 
+
+### Week 5/52: [Customer Visits](https://colab.research.google.com/drive/1T_8-LlsozRA88NwmerC84ykxRXjwQlPn) - Google Colab
+
+Week, EDA, Simulated, Prediction, Dummy Variable
+
+
