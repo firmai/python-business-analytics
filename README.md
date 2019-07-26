@@ -57,7 +57,9 @@ Capital Allocation, Decision Trees, Acquisitions, Investment
 
 Voting Classifiers, Bagging Ensembles, SMOTE, XGBoost, Cross-validation
 
+### Week 13/52: [HR Analytics](https://colab.research.google.com/drive/1kr-45C5ipdc57sjdlESB2M0eRVXKs-oV) - Google Colab
 
+OSEMN, Bagging Ensembles, AUC, Model Comparison, ROC Graph, Feature Importance Graph
 
 
 
