@@ -2,9 +2,9 @@
 
 ---------
 
-
-##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/0c1fd456af3b/firmaipython 
-### Intermediate to Advanced
+Finance Quant Machine Learning
+------------------
+- [ML-Quant.com](https://www.ml-quant.com/)  -  Automated Research Repository 
 ---
 
 A series looking at implementing python solutions to solve practical business problems. Share your own projects on this subreddit, [r/datascienceproject](https://www.reddit.com/r/datascienceproject/). Every week we will look at hand picked businenss solutions. See the following [google drive](https://drive.google.com/open?id=1mi5-fwM47GioHFePRcGOtJvo_ewpoLJL) for all the code and [github](https://github.com/firmai/python-business-analytics/tree/master/data) for all the data. If you follow the [LinkedIn page](https://www.linkedin.com/company/firmai), you would be able to see the lastest developments. 
